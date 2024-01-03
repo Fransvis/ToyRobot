@@ -29,6 +29,8 @@ The other main issue I was facing is that my program would exit after handling t
 
 There are still some major improvements to make here. The main improvement is going to center around creating a proper repository structure. This way you can separate each part to its own detail. We can also improve the overall functionality by improving things like switch cases, adding better error handling (perhaps a wrapper function) and improving readability.
 
+I am also in need of adding a file reader for passing a file with commands.
+
 ## Future 
 
 Toy Robot has much potential. We could make the course bigger. We can implement a better front-end to improve user friendliness - a grid that shows the robot's position, buttons for each command. We could add another player to the game to implement some sort of battle. We could add obstacles to the course. Etc.
